@@ -16,6 +16,11 @@ body {
 .card:hover {
   width: 300px; }
 
+li h1, li .h1 {
+  margin: 0;
+  font-size: 20px;
+  color: #43a1f7; }
+
 /*!
  * Bootstrap v5.1.3 (https://getbootstrap.com/)
  * Copyright 2011-2021 The Bootstrap Authors
